@@ -10,4 +10,9 @@ public class GitTry {
     }
     public static  void xyz(){}
 
+
+    public  static void fromRilfi(){
+        
+    }
+
 }
